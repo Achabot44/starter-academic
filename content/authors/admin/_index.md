@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alex Chabot
 
 # Username (this should match the folder name)
 authors:
@@ -10,26 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Text and Technology Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Central Florida
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include pedagogy, instructional technology, and the effects of Covid 19 on education.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Education
+- Educational Technology
+- Education during a pandemic
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: Intro to Texts and Technology
+    institution: UCF
+    year: 2020
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
