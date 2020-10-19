@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alex Chabot is currently a Doctoral student in the Texts and Technology program at the University of Central Florida. Concurrently he works in the Eastern Florida State College Academic Success Center, focusing mainly on writing support services. Alex has been teaching high school and college English and eduction classes for over a decade. In his free time he likes to bike, garden, and spend time with his three children.
 
 
