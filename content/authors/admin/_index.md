@@ -28,14 +28,14 @@ interests:
 education:
   courses:
   - course: Intro to Texts and Technology
-    institution: UCF
+    institution: University of Central Florida
     year: 2020
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: English Education MA
+    institution: University of Central Florida
+    year: 2011
+  - course: English BA
+    institution: State University of New York at Albany
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
