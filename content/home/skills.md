@@ -21,16 +21,16 @@ subtitle = ""
   description = "Private and Public turoing services"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "chalkboard"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Teaching"
+  description = "Pedagogy"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Coding"
+  description = "10% okay at this"
 
 # Uncomment to use emoji icons.
 # [[feature]]
