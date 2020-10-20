@@ -27,27 +27,27 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Tutoring
+  * Reading Development
+  * Test Preparation
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Instructor"
+  company = "Eastern Florida State College"
+  company_url = "https://www.easternflorida.edu/"
+  location = "Florida"
+  date_start = "2015-01-01"
+  date_end = "2018-12-27"
+  description = """Taught Education, Developmental Writing, and Developmental Reading Classes"""
 
   [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Teacher"
+  company = "Brevard Public Schools"
+  company_url = "https://www.brevardschools.org/"
+  location = "Florida"
+  date_start = "2011-08-15"
+  date_end = "2016-11-01"
+  description = """Taught English, English Honors, AICE English, and Critical Thinking"""
 
 +++
