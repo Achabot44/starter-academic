@@ -29,8 +29,8 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Coding"
-  description = "10% okay at this"
+  name = "Github"
+  description = "Entry level"
 
 # Uncomment to use emoji icons.
 # [[feature]]
