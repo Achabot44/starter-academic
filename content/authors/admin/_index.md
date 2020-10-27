@@ -54,7 +54,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Achabot44
- - icon: cv
+- icon: cv
    icon_pack: ai
    link: files/cv.pdf
 
