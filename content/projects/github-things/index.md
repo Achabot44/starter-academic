@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-<!-- this script got from www.javascriptfreecode.com - Coded by: Krishna Eydat -->
+<!--Coded by: Krishna Eydat and edited by Alex Chabot -->
 <style>
 html{
 	height: 100%;
@@ -136,10 +136,10 @@ canvas{
 <div id="content">
 <h1>Menu & Navigation</h1>
 <div>
-<a data-color="#2196F3" style="color: #2196F3" href="">Blue Page</a>
-<a data-color="#F44336" style="color: #F44336" href="">Red Page</a>
-<a data-color="#8BC34A" style="color: #8BC34A" href="">Green Page</a>
-<a data-color="#FF9800" style="color: #FF9800" href="">Orange Page</a>
+<a data-color="#2196F3" style="color: #2196F3" href="">Alex Chabot</a>
+<a data-color="#F44336" style="color: #F44336" href="">Javascript</a>
+<a data-color="#8BC34A" style="color: #8BC34A" href="">Project</a>
+<a data-color="#FF9800" style="color: #FF9800" href="">ENG 6810</a>
 </div>
 </div>
 <svg id="rope" xmlns="http://www.w3.org/2000/svg">
