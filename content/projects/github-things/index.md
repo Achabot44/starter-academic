@@ -134,7 +134,7 @@ canvas{
 
 <div id="nav">
 <div id="content">
-<h1>Menu & Navigation</h1>
+<h1>I Almost Got This To Work Dr. Beever</h1>
 <div>
 <a data-color="#2196F3" style="color: #2196F3" href="">Alex Chabot</a>
 <a data-color="#F44336" style="color: #F44336" href="">Javascript</a>
